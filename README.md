@@ -11,8 +11,8 @@ The dashboard enables users to explore trends, identify top-performing segments,
 
 ## Key Insights
 The dashboard provides valuable insights such as:
- -Region-wise and country-wise sales analysis
- -Sales trends over time
- -Top-selling bike categories and models
- -Customer segmentation insights
- -Revenue and quantity analysis
+ - Region-wise and country-wise sales analysis
+ - Sales trends over time
+ - Top-selling bike categories and models
+ - Customer segmentation insights
+ - Revenue and quantity analysis
