@@ -28,3 +28,8 @@ The dashboard provides valuable insights such as:
  - Microsoft Excel
  - Data Cleaning & Transformation
  - DAX (Data Analysis Expressions
+
+## Dashboard Preview
+ - <a href = "">Dashboard</a>
+
+
