@@ -30,6 +30,10 @@ The dashboard provides valuable insights such as:
  - DAX (Data Analysis Expressions
 
 ## Dashboard Preview
- - <a href = "">Dashboard</a>
+ - <a href = "https://github.com/soham-w/bike-sales-analysis-dashboard/blob/main/dashboard_screenshot.png">Dashboard</a>
+
+## Contact
+ - Name: Soham Waghule
+ - GitHub: https://github.com/soham-w
 
 
